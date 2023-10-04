@@ -168,16 +168,16 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Jira',
-					link: 'https://www.dribbble.com',
+					name: 'IA',
+					link: 'https://instant-hack.to/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Notion',
+					link: 'https://www.https://www.notion.so/BUT-INFO-2-S3-S4-a9469b7eb25843f8b301be40f7defafb.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'MonkeyType',
+					link: 'https://monkeytype.com/',
 				},
 			],
 		},
