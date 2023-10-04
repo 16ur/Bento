@@ -29,7 +29,7 @@ const CONFIG = {
 
 	// Weather
 	weatherKey: 'https://api.open-meteo.com/v1/forecast?latitude=43.6768&longitude=4.6303&hourly=temperature_2m', // Write here your API Key
-	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
+	weatherIcons: 'Nord', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
