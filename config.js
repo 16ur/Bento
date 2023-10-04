@@ -154,8 +154,8 @@ const CONFIG = {
 					link: 'https://www.twitch.tv/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Twitter',
+					link: 'https://twitter.com/home',
 				},
 			],
 		},
@@ -168,7 +168,7 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
+					name: 'Jira',
 					link: 'https://www.dribbble.com',
 				},
 				{
