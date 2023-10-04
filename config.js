@@ -173,7 +173,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Notion',
-					link: 'https://www.https://www.notion.so/BUT-INFO-2-S3-S4-a9469b7eb25843f8b301be40f7defafb.com',
+					link: 'https://www.notion.so/BUT-INFO-2-S3-S4-a9469b7eb25843f8b301be40f7defafb',
 				},
 				{
 					name: 'MonkeyType',
