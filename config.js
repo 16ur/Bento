@@ -57,19 +57,19 @@ const CONFIG = {
 			id: '1',
 			name: 'Github',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'https://github.com/16ur',
 		},
 		{
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://gmail.com/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Youtube',
+			icon: 'youtube',
+			link: 'https://youtube.com/',
 		},
 		{
 			id: '4',
@@ -79,16 +79,17 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'ENT',
+			icon: 'graduation-cap',
+			link: 'https://ent.univ-amu.fr/',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Todoist',
+			icon: 'trello',
+			link: 'https://todoist.com',
 		},
+
 	],
 
 	secondButtonsContainer: [
@@ -137,20 +138,20 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'tv-2',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Goku',
+					link: 'https://goku.sx/home',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Prime',
+					link: 'https://www.primevideo.com/region/eu/?ref_=dvm_crs_gno_fr_xs_s_dk_nav_eg_al_yracc_0_u',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Twitch',
+					link: 'https://www.twitch.tv/',
 				},
 				{
 					name: 'Rock',
