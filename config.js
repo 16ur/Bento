@@ -85,9 +85,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Todoist',
+			name: 'Jira',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://saefinder.atlassian.net/jira/your-work',
 		},
 
 	],
