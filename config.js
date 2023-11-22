@@ -27,16 +27,6 @@ const CONFIG = {
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
-	// Weather
-	weatherKey: 'https://api.open-meteo.com/v1/forecast?latitude=43.6768&longitude=4.6303&hourly=temperature_2m', // Write here your API Key
-	weatherIcons: 'Nord', // 'Onedark', 'Nord', 'Dark', 'White'
-	weatherUnit: 'C', // 'F', 'C'
-	language: 'en', // More languages in https://openweathermap.org/current#multi
-
-	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
-
 	// Autochange
 	autoChangeTheme: true,
 
@@ -55,9 +45,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/16ur',
+			name: 'Youtube',
+			icon: 'youtube',
+			link: 'https://www.youtube.com',
 		},
 		{
 			id: '2',
@@ -67,9 +57,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Youtube',
-			icon: 'youtube',
-			link: 'https://youtube.com/',
+			name: 'GitHub',
+			icon: 'github',
+			link: 'https://github.com/16ur',
 		},
 		{
 			id: '4',
